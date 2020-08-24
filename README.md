@@ -1,3 +1,3 @@
-# PTES
-PENTEST Framework memo
+# TIM
+Test Intrusion Memo (aka TIM)
 
