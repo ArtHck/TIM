@@ -117,7 +117,7 @@
           "children": [
             {
               "id": "000300",
-              "name": "Model de Menace",
+              "name": "Modele de Menace",
               "type": "url",
               "url": "https://fr.wikipedia.org/wiki/Mod%C3%A8le_de_menace"
             },
@@ -172,58 +172,6 @@
           ],
           "id": "0003",
           "name": "Modelisation des menaces",
-          "type": "folder"
-        },
-        {
-          "children": [
-            {
-              "id": "000400",
-              "name": "Test",
-              "type": "url",
-              "url": "http://7fortress.com"
-            }
-          ],
-          "id": "0004",
-          "name": "Evaluation des vulnerabilites",
-          "type": "folder"
-        },
-        {
-          "children": [
-            {
-              "id": "000500",
-              "name": "A venir",
-              "type": "url",
-              "url": "http://7fortress.com"
-            }
-          ],
-          "id": "0005",
-          "name": "Exploitation",
-          "type": "folder"
-        },
-        {
-          "children": [
-            {
-              "id": "000600",
-              "name": "A venir",
-              "type": "url",
-              "url": "http://7fortress.com"
-            }
-          ],
-          "id": "0006",
-          "name": "Post Exploitation",
-          "type": "folder"
-        },
-        {
-          "children": [
-            {
-              "id": "000700",
-              "name": "A venir",
-              "type": "url",
-              "url": "http://7fortress.com"
-            }
-          ],
-          "id": "0007",
-          "name": "Presentation des Resultats",
           "type": "folder"
         }
       ],
@@ -1688,63 +1636,6 @@
           ],
           "id": "0803",
           "name": "Analyse des vulnerabilites",
-          "type": "folder"
-        },
-        {
-          "children": [
-            {
-              "id": "080400",
-              "name": "A venir",
-              "type": "url",
-              "url": "http://7fortress.com"
-            },
-            {
-              "id": "080401",
-              "name": "A venir",
-              "type": "url",
-              "url": "http://7fortress.com"
-            },
-            {
-              "id": "080402",
-              "name": "A venir",
-              "type": "url",
-              "url": "http://7fortress.com"
-            }
-          ],
-          "id": "0804",
-          "name": "Reverse",
-          "type": "folder"
-        },
-        {
-          "children": [
-            {
-              "children": [
-                {
-                  "id": "08050000",
-                  "name": "A venir",
-                  "type": "url",
-                  "url": "http://7fortress.com/"
-                },
-                {
-                  "id": "08050001",
-                  "name": "A venir",
-                  "type": "url",
-                  "url": "http://7fortress.com/"
-                }
-              ],
-              "id": "080500",
-              "name": "A venir",
-              "type": "folder"
-            },
-            {
-              "id": "080501",
-              "name": "A venir",
-              "type": "url",
-              "url": "http://7fortress.com/"
-            }
-          ],
-          "id": "0805",
-          "name": "Reporting",
           "type": "folder"
         }
       ],
